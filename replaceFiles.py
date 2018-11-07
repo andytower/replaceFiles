@@ -35,6 +35,7 @@ def main():
             descriptorFile.close()
             nCount=nCount+1
     print('Processing files - ',nCount)
+
  
 if __name__ == '__main__':
     main()
